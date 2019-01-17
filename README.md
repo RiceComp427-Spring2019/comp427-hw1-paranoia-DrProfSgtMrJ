@@ -11,9 +11,9 @@ and will be rendered to beautiful HTML when you visit your GitHub repo.
 ## Student Information
 Please also edit _README.md_ and replace your instructor's name and NetID with your own:
 
-_Student name_: Dan WALLACH
+_Student name_: Jade Dever Matthews
 
-_Student NetID_: dwallach
+_Student NetID_: jcd7
 
 Your NetID is typically your initials and a numeric digit. That's
 what we need here.
@@ -22,12 +22,15 @@ _If you contacted us in advance and we approved a late submission,
 please cut-and-paste the text from that email here._
 
 ## Problem 1
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: {Stadium}
 - Assumptions:
-  - explain_your_assumptions
+  - I assume that there is a limited budget specifically dedicated
+    for security.
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - The assests that are important include the two football teams, the
+    audience, the statium staff. Other assests that should be secured include
+    the two teams' equipment, the equipment of the staff, the money handled by
+    staff, and all items sold at the stadium.
 - Threats:
   - explanatory_paragraph 
   - explanatory_paragraph ...
