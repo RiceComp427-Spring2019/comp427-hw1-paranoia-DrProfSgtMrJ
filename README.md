@@ -25,18 +25,27 @@ please cut-and-paste the text from that email here._
 - Scenario: {Stadium}
 - Assumptions:
   - I assume that there is a limited budget specifically dedicated
-    for security.
+    for security. I also will assume that the network is only accessible to
+    the staff of the stadium rather than publically avaliable.
 - Assets:
   - The assests that are important include the two football teams, the
     audience, the statium staff. Other assests that should be secured include
     the two teams' equipment, the equipment of the staff, the money handled by
-    staff, and all items sold at the stadium.
+    staff, and all items sold at the stadium. The stadium/structural integrity
+    is another important asset. Lastly, the internal network is
+    something that needs to be secured; this network could involve electronic
+    money transfer. 
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - There are two modes of threats: physical and virtual. The physical threats
+    entail inflicting harm on the audience, staff, or other people in the
+    stadium. This could be from a shooting, an explosive, an aggressive person,
+    etc. Theft is another physical threat: theft of personal items, equipment,
+    or other assets mentioned above. The virtual threats include eavesdropping 
+    on packets sent accross the network and potentially comprimising the
+    network.
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - It would take a lot of man power to protect against a lot of physical
+    threats to the point where it might be 
 
 ## Problem 2
 - Scenario: {Stadium|TSA|Documents|Grading|G20}
