@@ -26,7 +26,8 @@ please cut-and-paste the text from that email here._
 - Assumptions:
   - I assume that there is a limited budget specifically dedicated
     for security. I also will assume that the network is only accessible to
-    the staff of the stadium rather than publically avaliable.
+    the staff of the stadium rather than publically avaliable. Lastly, the 
+    stadium also includes the parking lot around it.
 - Assets:
   - The assests that are important include the two football teams, the
     audience, the statium staff. Other assests that should be secured include
@@ -45,33 +46,63 @@ please cut-and-paste the text from that email here._
     network.
 - Countermeasures:
   - It would take a lot of man power to protect against a lot of physical
-    threats to the point where it might be 
+    threats to the point where the costs are unpracticle. For instance,
+    protecting against a severe terrorist attack (like missles) is
+    unreasonable. Protecting monetary transactions is important, but most
+    likely there aren't a lot of highly classified materials being used. Thus,
+    investing in higher levels of security than what is normally provided by
+    the router is most likely not worth the cost.
 
 ## Problem 2
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: {Grading}
 - Assumptions:
-  - explain_your_assumptions
+  - Confidentiallity between the grader and the student is not of concern (the
+    grader is able to see who the name of the student affiliated with the
+    assignemnt they are grading on). These assignments were submitted through
+    canvas and thus inherit some of the built in security.
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - One of the primary assests that needs to be protected is the assignemnt and
+    the grade of that assignemnt. The grader most likely has access to other
+    assignments and thus, these are other assets that should be protected.
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - The main threat includes other students viewing the assignemnt(s) that are
+    being graded. Also, since other graders most likely have access to the
+    submissions, they could potentially leak the confidential information.
+    Lastly, people outside of rice (including alumni) might be able to 
+    get their hands on the student information.
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - It might be important for all of the graders to have access to all of the
+    submissions, thus, adding security to prevent another grader from leaking
+    student information would cost usability thus making it impracticle for the
+    situation.
 
 ## Problem 3
-- Scenario: Your choice (give a brief explanation)
+- Scenario: Your choice (User of Slate for entering in prospective student
+  information)
 - Assumptions:
-  - explain_your_assumptions
+  - As a user of Slate, I have no control over the security provided by slate
+    iteself. Thus, and this may be inaccurate, I must put trust in the system
+    that is being used to store confidential information.
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - The assets needing protection include confidential information stored for a 
+    particular student including financial information, governmental
+    information (i.e social security number), demographic information, test
+    scores, and other information submitted for the application. Lastly, the
+    other asset includes the user's account information and data on the
+    computer.
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - One threat includes the compromising of a user's account thus giving them
+    access to information they might not have been permitted to see.
+    Adversaries could also attempt to steal student information or upload fake
+    data (the adversary could upload false information or alter existing data 
+    while pretending to be a prospective student).
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - Most of the responsibilities for security lays in the hands of the
+    developers of Slate. Although, it would be benefitial to secure the 
+    computers themselves to prevent other avenues for malicous people to gain
+    access to non-permitted content. Using bitlocker for encryption and using a
+    good password for the computer are easy/low cost methods that could counter
+    the threats. Lastly, enstilling good internet and computer usage principles
+    is a must to ensure confidentiallity. Adding additional security messures,
+    however, could compromise the usability of the users.
 
